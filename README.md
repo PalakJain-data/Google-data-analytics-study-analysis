@@ -67,7 +67,7 @@ Excel functions and techniques used included:
 * Basic data grouping and comparison
 
 ## 📈 Dashboard
-
+![Dashboard Preview](Dashboard.png)
 The final dashboard summarizes the main findings using:
 
 * Total recorded study time
